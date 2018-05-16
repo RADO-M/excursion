@@ -33,4 +33,5 @@ span p{
 .copyright{
   text-align: right;
   color: gray;
+  font-weight: 300;
 }
